@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bin/bash 
 # This script is a simple questionnaire that gathers and displays information about the user. 
 # It demonstrates basic Bash commands like variable assignment, echo for output, and read for user input.
 
