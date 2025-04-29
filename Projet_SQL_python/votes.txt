@@ -1,0 +1,300 @@
+James Schwartz;Texas;K
+Billy Stephens;Michigan;K
+Charles Robertson;Illinois;T
+William Morris;Ohio;K
+Jason Anderson;Ohio;T
+Krista Werner;Ohio;T
+Anthony Johnson;Illinois;K
+Daniel Thompson;Florida;K
+Justin Bryant;California;T
+Anthony Olson;Illinois;K
+Jacob Edwards;Ohio;T
+Monica Mcdaniel;Nevada;T
+Erik Bailey;Nevada;T
+Scott Woods;Michigan;T
+Joshua Mcbride;Arizona;T
+Jared Larsen;Arizona;K
+Misty Patel;Arizona;K
+Michael Whitaker;Texas;T
+Alex Farrell;California;K
+Casey Owens;Michigan;T
+James Schwartz;Ohio;T
+Tami Robinson;Washington;T
+Sara Brown;Michigan;K
+Erik Bailey;Florida;T
+Teresa Schneider;Washington;K
+Daniel Thompson;Ohio;T
+Kayla Wood;Ohio;K
+Melanie Jones;Ohio;K
+Carla Rodriguez;Florida;T
+Loretta Perez;New York;T
+Sabrina Butler;Nevada;T
+Andrew Shaw;Michigan;T
+Kelli Collins;New York;K
+Carrie Hall;Texas;K
+Matthew Monroe;Florida;T
+John Morrison;Michigan;K
+Margaret Johnson;Florida;T
+Kevin Gray;Michigan;K
+Tami Robinson;Washington;T
+Stephen Smith;New York;K
+Jacob Shaw;Illinois;K
+James Schwartz;Arizona;T
+Shelly Harrison;Washington;T
+Allen Miller;Nevada;T
+Meghan Gomez;Arizona;K
+Don Shaffer;Illinois;T
+Angela Thompson;Texas;T
+Brian Collins;California;T
+James Hopkins;New York;T
+Randall Sanchez;Nevada;T
+Briana Howe;Washington;T
+Todd Lopez;Arizona;K
+Austin Freeman;New York;T
+Nicholas Blanchard;Florida;T
+Stephen Smith;Nevada;K
+Christopher Norman;Illinois;T
+Vanessa Briggs;California;K
+Jacob Shaw;California;T
+Allen Miller;Ohio;K
+John Bates;Arizona;T
+Scott Woods;Michigan;K
+Tanner Weaver;Texas;K
+Kelly Sanchez;New York;K
+Eric Anderson;Florida;T
+Jody Hudson;Illinois;K
+Mark Conley;New York;T
+Susan Clarke;Illinois;K
+Jessica Graham;Washington;K
+Jessica Moore;Nevada;K
+Christopher Taylor;Illinois;K
+Jacob Edwards;Illinois;K
+Lisa Maldonado;Nevada;K
+Tina Luna;Washington;K
+Lisa Maldonado;Ohio;K
+Tara Garcia;Arizona;T
+Brian Ramirez;New York;T
+Jacob Gonzalez;Florida;T
+Kelly Smith;New York;T
+Spencer James;Arizona;K
+Jennifer Monroe;Nevada;T
+Michael Franklin;California;K
+Beverly Gibbs;Washington;T
+Sandra Scott;Nevada;K
+Micheal Moses;Nevada;T
+Michelle Hayes;Florida;T
+Stephen Smith;Ohio;K
+Mark Torres;Arizona;T
+Autumn Johnson;Nevada;K
+Angela Brown;Washington;K
+Andrew Shaw;Florida;K
+Tami Robinson;Illinois;K
+Bianca Henderson;Illinois;T
+Alyssa Ellis;Florida;T
+Sarah Cannon;Arizona;K
+Kyle Miller;California;T
+Terrance Ramirez;Nevada;K
+Elizabeth Cameron;Arizona;K
+Frank Rodriguez;Texas;T
+Kelly Smith;Florida;T
+Jacqueline Knight;Illinois;T
+Samantha Harper;Florida;K
+Kayla Murray;Texas;T
+Gregory Boyer;Nevada;K
+Shane Harrell;Washington;T
+Michelle Price;Michigan;K
+Terrance Ramirez;Illinois;T
+Scott Woods;New York;T
+Jacob Edwards;New York;K
+Joshua Mcbride;Illinois;K
+Christian Brown;Nevada;T
+Anthony Brown;Texas;T
+Jacqueline Knight;Florida;T
+Lisa Maldonado;Illinois;T
+Gregory Boyer;Michigan;T
+Brian Campbell;New York;K
+Angela Brown;Arizona;T
+Joshua Mcbride;Illinois;T
+Evan Evans;Nevada;T
+Deborah Woods;Michigan;T
+Vanessa Briggs;Michigan;T
+Melissa Castillo;California;T
+Keith Meadows;Nevada;K
+Jared Larsen;Texas;K
+Elizabeth Cameron;California;K
+Vanessa Briggs;New York;K
+Anthony Zavala;New York;K
+Jason Beck;California;K
+Thomas Fowler;Arizona;K
+Anthony Zavala;Illinois;T
+Autumn Farley;Washington;K
+Cynthia Sanchez;Nevada;K
+Elizabeth Rogers;Florida;T
+Thomas Waller;Illinois;K
+Don Shaffer;California;K
+Jessica Moore;New York;K
+Tanner Weaver;New York;K
+Jody Hudson;Ohio;T
+Meghan Gomez;Illinois;T
+Andrew Shaw;Michigan;K
+Kelli Collins;Illinois;T
+Gregory Johnson;Arizona;K
+James Rivera;New York;K
+Allison Combs;California;T
+Amber Murray;Texas;T
+Andrew Shaffer;Nevada;T
+Madison Lynch;Illinois;T
+April Jenkins;Washington;K
+Kerry Chapman;Nevada;K
+Steve Harris;Illinois;K
+Brian Collins;California;T
+Sierra Alexander;California;T
+Tonya Roberts;Nevada;K
+Keith Silva;Arizona;T
+Bianca Henderson;Florida;K
+David Stanton;Arizona;K
+Donna Myers;Michigan;T
+David Bennett;Michigan;K
+Bradley Mora;California;T
+Evan Evans;New York;T
+Stephen Smith;Florida;K
+Daniel Thompson;Michigan;T
+Nicholas Oliver;Nevada;K
+Breanna Martinez;Washington;K
+Nicholas Smith;Florida;K
+Mark Torres;Florida;K
+Christopher Norman;Texas;T
+Thomas Waller;California;T
+Krista Werner;Ohio;T
+Erik Bailey;California;T
+Monica Mcdaniel;Florida;T
+Jason Adams;Michigan;T
+Amber Murray;Illinois;K
+Amber Murray;California;T
+John Bates;California;K
+Michael Whitaker;California;T
+Elizabeth Cameron;Illinois;K
+Monica Mcdaniel;New York;T
+Richard King;Texas;K
+Jason Anderson;Florida;T
+Kevin Guerrero;Ohio;K
+David Bennett;Arizona;K
+Lisa Maldonado;New York;T
+Autumn Johnson;Texas;T
+Angela Brown;Arizona;K
+Jared Larsen;Washington;T
+Sierra Alexander;Nevada;T
+Brian Ramirez;Michigan;T
+Angela Brown;Illinois;K
+Spencer James;Texas;T
+Angela Harris;Texas;T
+Melanie Jones;Florida;T
+Michelle Price;Ohio;K
+Briana Nguyen;Arizona;T
+Priscilla Castillo;New York;K
+Tracy Pitts;Texas;T
+David Stanton;Florida;T
+Tina Luna;Illinois;K
+Matthew Monroe;Florida;T
+Briana Butler;New York;T
+Ryan Davis;California;K
+Emily Grant;Illinois;T
+Donna Myers;Florida;T
+Christopher Perry;Texas;K
+Dylan Horton;Florida;T
+Justin Bryant;California;K
+William Morris;Nevada;T
+Don Shaffer;Texas;K
+Andrea Church;Florida;T
+Matthew Wilson;Ohio;K
+Mary Joyce;New York;K
+Micheal Moses;California;T
+Jennifer Collier;New York;T
+Charles Rodriguez;Michigan;T
+Kayla Wood;Arizona;T
+Tonya Roberts;Nevada;T
+Amanda Yates;Washington;T
+Andrew Graham;New York;T
+Mark Conley;Michigan;T
+Tonya Roberts;Michigan;K
+Angela Thompson;Nevada;T
+Keith Silva;Ohio;K
+Joshua Mcbride;Arizona;T
+Carolyn Evans;Florida;K
+Nicholas Blanchard;California;T
+Mark Torres;Illinois;K
+Daniel Castillo;Florida;T
+Judith Simpson;Florida;T
+Brian Ramirez;New York;T
+Timothy Boone;Texas;T
+Andrew Shaw;Illinois;K
+Jason Adams;Arizona;T
+Briana Butler;Arizona;T
+Brian Campbell;California;T
+Justin Bryant;Illinois;T
+Jacqueline Knight;Arizona;K
+Mark Torres;Florida;T
+David Stanton;California;K
+Amber Murray;Florida;T
+Briana Nguyen;Nevada;K
+John Morrison;Texas;K
+David Bolton;Michigan;T
+Don Shaffer;Nevada;K
+Kelli Collins;Arizona;K
+Hannah Zhang;Florida;T
+Danielle Quinn;Texas;T
+Michelle Price;California;K
+Kayla Murray;Washington;K
+Robin Brown;New York;T
+Jason Beck;Florida;T
+Matthew Lane;California;T
+Robin Brown;California;T
+Oscar Hunt;Ohio;T
+Sierra Alexander;California;T
+Danielle Quinn;Arizona;T
+Diana Freeman;Michigan;T
+Jamie Cervantes;Texas;K
+Linda Murphy;Ohio;T
+James Ellis;Ohio;T
+Timothy Villanueva;Michigan;T
+Tammy Martin;Illinois;T
+Angela Harrison;Washington;T
+David Mccullough;California;T
+Trevor Williams;Florida;K
+Marissa Espinoza;California;K
+Sean Henry;Florida;K
+Dennis Reilly;Texas;K
+Jasmin Miles;New York;T
+Debra Day;Washington;T
+Mark Fry;Illinois;T
+Emma Schneider;Washington;T
+Robert Friedman;New York;T
+Alexis Moore;California;T
+Evan Taylor;New York;T
+Evan Jennings;Nevada;K
+Brenda Stevens;Arizona;K
+Andrea Harris;Texas;T
+Stephen York;New York;K
+Christopher Rogers;Illinois;T
+Ashley Schultz;Washington;K
+Gregory Bowers;Texas;K
+Janice Doyle;Texas;K
+John Barnett;Illinois;K
+Gregory Trevino;Illinois;T
+Emily Ramirez;Florida;T
+Megan Leach;Ohio;T
+Nicole Long;California;K
+Tracy Fisher;Arizona;T
+Michael Hudson;Arizona;T
+Eric Gonzalez;Nevada;K
+Rebecca Williams;Ohio;T
+Kelly Small;Illinois;T
+Joseph Hughes;Arizona;T
+Amanda Pham;Arizona;T
+Veronica Park;Florida;T
+Benjamin Brown;Texas;K
+Curtis Robinson;Michigan;T
+Jonathan Thomas;Texas;K
+Joshua Glenn;Washington;T
+Alan Burgess;Washington;T
+Beverly Goodwin;Illinois;K
