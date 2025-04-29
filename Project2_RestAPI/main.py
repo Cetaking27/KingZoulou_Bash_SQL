@@ -5,11 +5,7 @@ from fastapi.responses import HTMLResponse
 from fastapi import HTTPException
 import json
 
-# from fastapi.middleware.cors import CORSMiddleware
-# from routers import users, items, auth  # Importing routers from the routers package
 
-# from fastapi.staticfiles import StaticFiles
-# from fastapi.responses import FileResponse
 import os
 
 app = FastAPI()
